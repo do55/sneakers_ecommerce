@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.03ccbdd4.css",
-    "main.js": "/static/js/main.d6b2eabf.js",
-    "static/js/787.a2d58267.chunk.js": "/static/js/787.a2d58267.chunk.js",
-    "static/media/aboutImage.jpg": "/static/media/aboutImage.d488497d21f6ac75599b.jpg",
-    "static/media/womens.jpg": "/static/media/womens.8ebd5ce1daa686544116.jpg",
-    "static/media/authPage.jpg": "/static/media/authPage.25b2530dac52eb5632d3.jpg",
-    "static/media/mens.jpg": "/static/media/mens.5c73a70e53317e73c2f1.jpg",
-    "index.html": "/index.html",
-    "main.03ccbdd4.css.map": "/static/css/main.03ccbdd4.css.map",
-    "main.d6b2eabf.js.map": "/static/js/main.d6b2eabf.js.map",
-    "787.a2d58267.chunk.js.map": "/static/js/787.a2d58267.chunk.js.map"
+    "main.css": "/sneakers_ecommerce/static/css/main.03ccbdd4.css",
+    "main.js": "/sneakers_ecommerce/static/js/main.32dcd0e7.js",
+    "static/js/787.a2d58267.chunk.js": "/sneakers_ecommerce/static/js/787.a2d58267.chunk.js",
+    "static/media/aboutImage.jpg": "/sneakers_ecommerce/static/media/aboutImage.d488497d21f6ac75599b.jpg",
+    "static/media/womens.jpg": "/sneakers_ecommerce/static/media/womens.8ebd5ce1daa686544116.jpg",
+    "static/media/authPage.jpg": "/sneakers_ecommerce/static/media/authPage.25b2530dac52eb5632d3.jpg",
+    "static/media/mens.jpg": "/sneakers_ecommerce/static/media/mens.5c73a70e53317e73c2f1.jpg",
+    "index.html": "/sneakers_ecommerce/index.html",
+    "main.03ccbdd4.css.map": "/sneakers_ecommerce/static/css/main.03ccbdd4.css.map",
+    "main.32dcd0e7.js.map": "/sneakers_ecommerce/static/js/main.32dcd0e7.js.map",
+    "787.a2d58267.chunk.js.map": "/sneakers_ecommerce/static/js/787.a2d58267.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03ccbdd4.css",
-    "static/js/main.d6b2eabf.js"
+    "static/js/main.32dcd0e7.js"
   ]
 }
