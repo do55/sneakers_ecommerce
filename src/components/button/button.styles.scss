@@ -1,0 +1,66 @@
+.sign-button {
+  background-color: white;
+  border: 2px solid black;
+  width: 120px;
+  height: 40px;
+  transition: all ease 1s;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+  &:active {
+    transform: scale(1.1);
+  }
+}
+
+.github-sign-in {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 100px;
+  border-radius: 10px;
+  border: none;
+  transition: all ease 1s;
+
+  &:hover {
+    color: pink;
+  }
+  &:active {
+    transform: scale(1.1);
+  }
+}
+
+.facebook-sign-in {
+  background-color: rgb(18, 90, 223);
+  color: white;
+  width: 200px;
+  height: 100px;
+  border-radius: 10px;
+  border: none;
+  transition: all ease 1s;
+
+  &:hover {
+    color: black;
+  }
+  &:active {
+    transform: scale(1.1);
+  }
+}
+
+.google-sign-in {
+  background: linear-gradient(red, orange, green);
+  color: white;
+  width: 200px;
+  height: 100px;
+  border-radius: 10px;
+  border: none;
+  transition: all ease 1s;
+
+  &:hover {
+    color: black;
+  }
+  &:active {
+    transform: scale(1.1);
+  }
+}

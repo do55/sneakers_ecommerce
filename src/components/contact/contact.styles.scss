@@ -1,0 +1,49 @@
+.textInput {
+  width: 80%;
+  padding: 12px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.submitInput {
+  background-color: rgb(245, 12, 51);
+  color: white;
+  width: 300px;
+  height: 410px;
+  padding: 12px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 3em;
+  text-align: center;
+}
+
+.submitInput:hover {
+  background-color: #61dcec;
+}
+
+.contact-container {
+  border-radius: 5px;
+  background-color: black;
+  padding: 80px;
+}
+
+.formContact {
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.clicked {
+  transform: scale(1.2);
+  transition: all 1s;
+}

@@ -1,0 +1,18 @@
+.main-container {
+  position: relative;
+}
+
+.stripes {
+  width: 100vw;
+  height: 20px;
+  position: absolute;
+  bottom: 0;
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 100px,
+    #000 100px,
+    #000 300px
+  );
+  background-color: #ffffff;
+}

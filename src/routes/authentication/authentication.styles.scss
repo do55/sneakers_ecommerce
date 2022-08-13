@@ -1,0 +1,35 @@
+// .authentication-container {
+//   display: flex;
+//   width: 900px;
+//   justify-content: space-between;
+//   margin: 30px auto;
+// }
+
+.authentication-container {
+  display: grid;
+  grid-template-columns: 35% 35% 20%;
+  margin-left: 30%;
+  justify-content: space-between;
+  margin-top: 70px;
+}
+
+img {
+  width: 20%;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0;
+}
+
+.buttons-auth {
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+  justify-content: space-around;
+}
+
+@media screen and (max-width: 1000px) {
+  .authImg {
+    display: none;
+  }
+}

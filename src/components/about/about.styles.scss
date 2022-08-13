@@ -1,0 +1,36 @@
+.about-container {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-auto-flow: column;
+
+  h1 {
+    padding: 50px;
+  }
+
+  & .par {
+    min-width: 20vw;
+    max-width: 30vw;
+    padding: 35px 50px;
+  }
+
+  & .firstPar {
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: row1-start;
+    grid-row-end: 1;
+  }
+
+  & .secondPar {
+    grid-column: 3 / span 2;
+    grid-row-start: 2;
+  }
+
+  & .thirdPar {
+    grid-column: 2 / span 2;
+    grid-row-start: 3;
+  }
+}
